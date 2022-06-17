@@ -1,0 +1,2 @@
+# SpreadJS_ColumnHeaderFontColor
+设置列头字体颜色
